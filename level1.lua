@@ -1,6 +1,7 @@
 Level1 = {}
 
 function Level1.get(self)
+  local check = {}
   local level1 = {}
   level1.tileWidth = 50
   level1.tileHeight = 50
